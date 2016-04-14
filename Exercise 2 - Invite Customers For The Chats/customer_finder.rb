@@ -61,3 +61,5 @@ class CustomerFinder
     end
 
 end
+
+CustomerFinder.find_nearby_customers
