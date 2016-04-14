@@ -1,5 +1,5 @@
 require 'test/unit'
-require './flatten_array.rb'
+require_relative './flatten_array.rb'
 
 class FlattenArrayTest < Test::Unit::TestCase
   def test_nested_arrays
