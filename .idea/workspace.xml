@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89903aad-7e82-4fc0-aa17-6535fba95e5e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/flatten_array.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/flatten_array_tests.rb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/intercom_screen.iml" afterPath="$PROJECT_DIR$/.idea/intercom_screen.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercise 2 - Invite Customers For The Chats/customer_finder.rb" afterPath="$PROJECT_DIR$/Exercise 2 - Invite Customers For The Chats/customer_finder.rb" />
     </list>
     <ignored path="intercom_screen.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,8 +53,8 @@
       <file leaf-file-name="customer_finder.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercise 2 - Invite Customers For The Chats/customer_finder.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            <state relative-caret-position="682">
+              <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -109,6 +106,7 @@
         <option value="$PROJECT_DIR$/Exercise 1 - Flatten Array/flatten_array.rb" />
         <option value="$PROJECT_DIR$/Exercise 1 - Flatten Array/flatten_array_tests.rb" />
         <option value="$PROJECT_DIR$/Exercise 2 - Invite Customers For The Chats/invite_customers.rb" />
+        <option value="$PROJECT_DIR$/Exercise 2 - Invite Customers For The Chats/customer_finder.rb" />
       </list>
     </option>
   </component>
@@ -414,12 +412,12 @@
       <option name="presentableId" value="Default" />
       <updated>1460586675608</updated>
       <workItem from="1460586677630" duration="4935000" />
-      <workItem from="1460591636179" duration="4524000" />
+      <workItem from="1460591636179" duration="4619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9459000" />
+    <option name="totallyTimeSpent" value="9554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -552,8 +550,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise 2 - Invite Customers For The Chats/customer_finder.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state relative-caret-position="682">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
           <folding />
         </state>
       </provider>

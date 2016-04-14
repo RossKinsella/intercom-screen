@@ -29,7 +29,7 @@ class CustomerFinder
 
     def self.read_customers
       customers = []
-      customers_file = File.open('./customers.txt')
+      customers_file = File.open './customers.txt'
       customers_file.each_line do |customer_json|
         customers.push JSON.parse customer_json
       end
